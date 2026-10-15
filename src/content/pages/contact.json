@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "headline": "Contact Us",
+    "subheadline": "Reach out to RCF's franchise team for enquiries, support, or to schedule a consultation."
+  },
+  "offices": [
+    {
+      "id": "o1",
+      "name": "RCF Head Office",
+      "address": "Priyadarshini, Eastern Express Highway, Chembur, Mumbai – 400 074",
+      "email": "info@rcf.services",
+      "hours": "Mon–Fri: 9:00 AM – 5:30 PM"
+    },
+    {
+      "id": "o2",
+      "name": "Thal Plant Office",
+      "address": "Thal, Alibag, Raigad District, Maharashtra – 402 208",
+      "email": "cc@rcf.services",
+      "hours": "Mon–Fri: 9:00 AM – 5:30 PM"
+    }
+  ],
+  "formTitle": "Send Us a Message",
+  "formSubtitle": "Fill the form below and our franchise team will respond within 1 working day.",
+  "subjects": [
+    {
+      "id": "sub1",
+      "label": "Franchise Enquiry"
+    },
+    {
+      "id": "sub2",
+      "label": "Existing Partner Support"
+    },
+    {
+      "id": "sub3",
+      "label": "Product Information"
+    },
+    {
+      "id": "sub4",
+      "label": "Complaint / Feedback"
+    },
+    {
+      "id": "sub5",
+      "label": "Other"
+    }
+  ]
+}

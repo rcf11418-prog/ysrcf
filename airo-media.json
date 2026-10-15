@@ -1,0 +1,331 @@
+{
+  "pages/home/india-reach": {
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "illustration,vector",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1222039976",
+    "searchQuery": "India map outline states regions business network",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-10-13T12:48:36.500Z",
+    "lastUpdated": "2026-10-13T12:48:36.500Z",
+    "gettyId": "1222039976"
+  },
+  "pages/home/products-npk": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2184378413",
+    "searchQuery": "NPK fertilizer granules soil nutrients agriculture",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/617776914",
+      "https://img1.wsimg.com/isteam/getty/1505569570"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-13T12:48:37.981Z",
+    "lastUpdated": "2026-10-13T12:48:37.981Z",
+    "gettyId": "2184378413",
+    "alternativeGettyIds": [
+      "617776914",
+      "1505569570"
+    ]
+  },
+  "pages/home/hero": {
+    "requestedSize": {
+      "width": 1920,
+      "height": 1080,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2197640628",
+    "searchQuery": "Indian agricultural fields green crops aerial view",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1414135590",
+      "https://img1.wsimg.com/isteam/getty/2165574836",
+      "https://img1.wsimg.com/isteam/getty/1170760347",
+      "https://img1.wsimg.com/isteam/getty/2151692228"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-13T12:48:39.905Z",
+    "lastUpdated": "2026-10-13T12:48:39.905Z",
+    "gettyId": "2197640628",
+    "alternativeGettyIds": [
+      "1414135590",
+      "2165574836",
+      "1170760347",
+      "2151692228"
+    ]
+  },
+  "pages/home/products-urea": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1312226959",
+    "searchQuery": "urea fertilizer bags agricultural products",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2029352301",
+      "https://img1.wsimg.com/isteam/getty/2249884536"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-13T12:48:41.239Z",
+    "lastUpdated": "2026-10-13T12:48:41.239Z",
+    "gettyId": "1312226959",
+    "alternativeGettyIds": [
+      "2029352301",
+      "2249884536"
+    ]
+  },
+  "pages/home/about-rcf": {
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2167761164",
+    "searchQuery": "fertilizer chemical plant industrial facility India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2293435008",
+      "https://img1.wsimg.com/isteam/getty/670818424",
+      "https://img1.wsimg.com/isteam/getty/2260408413"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-13T12:48:41.774Z",
+    "lastUpdated": "2026-10-13T12:48:41.774Z",
+    "gettyId": "2167761164",
+    "alternativeGettyIds": [
+      "2293435008",
+      "670818424",
+      "2260408413"
+    ]
+  },
+  "pages/home/farmer-partner": {
+    "requestedSize": {
+      "width": 300,
+      "height": 300,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/488438878",
+    "searchQuery": "Indian farmer businessman smiling portrait professional",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1187318178",
+      "https://img1.wsimg.com/isteam/getty/1458303905"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-13T12:48:43.805Z",
+    "lastUpdated": "2026-10-13T12:48:43.805Z",
+    "gettyId": "488438878",
+    "alternativeGettyIds": [
+      "1187318178",
+      "1458303905"
+    ]
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-transparent-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png",
+    "searchQuery": "horizontal",
+    "alternatives": [
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/3a774b29-85ac-4ce9-b8d5-d701235a4339/transparent-590e4b66-91c6-4ef2-b6a5-c8754f325fed/logo-logo.png"
+    ],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-transparent-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png": {
+        "sessionId": "dea94b14-28fb-4609-92d0-1245a7336d60",
+        "logoId": "435d479f-3550-4c11-8951-7b19be8c1b44",
+        "groupId": "d73737bf-9f92-4810-9d52-6c08c17e7e7f"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/3a774b29-85ac-4ce9-b8d5-d701235a4339/transparent-590e4b66-91c6-4ef2-b6a5-c8754f325fed/logo-logo.png": {
+        "sessionId": "3a774b29-85ac-4ce9-b8d5-d701235a4339",
+        "logoId": "590e4b66-91c6-4ef2-b6a5-c8754f325fed",
+        "groupId": "d73737bf-9f92-4810-9d52-6c08c17e7e7f"
+      }
+    },
+    "logoGroupId": "d73737bf-9f92-4810-9d52-6c08c17e7e7f",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-transparent-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-original-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/3a774b29-85ac-4ce9-b8d5-d701235a4339/transparent-590e4b66-91c6-4ef2-b6a5-c8754f325fed/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/3a774b29-85ac-4ce9-b8d5-d701235a4339/original-590e4b66-91c6-4ef2-b6a5-c8754f325fed/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-transparent-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-transparent-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-transparent-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-mockup-mug-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-mockup-card-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-mockup-tshirt-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-mockup-box-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-mockup-mug-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-mockup-card-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-mockup-tshirt-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-mockup-box-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-13T12:48:54.007Z",
+    "lastUpdated": "2026-10-13T12:52:40.905Z",
+    "surfaceMode": "light",
+    "generatedForSurfaceColor": "#ffffff",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/dea94b14-28fb-4609-92d0-1245a7336d60/horizontal-transparent-435d479f-3550-4c11-8951-7b19be8c1b44/logo-logo.png",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/3a774b29-85ac-4ce9-b8d5-d701235a4339/transparent-590e4b66-91c6-4ef2-b6a5-c8754f325fed/logo-logo.png"
+  },
+  "pages/home/products-bio": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2077907368",
+    "searchQuery": "organic bio fertilizer green agriculture sustainable farming",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1400191643",
+      "https://img1.wsimg.com/isteam/getty/1420763859"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-13T12:49:06.164Z",
+    "lastUpdated": "2026-10-13T12:49:06.164Z",
+    "gettyId": "2077907368",
+    "alternativeGettyIds": [
+      "1400191643",
+      "1420763859"
+    ]
+  },
+  "pages/home/products-micronutrients": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1482269836",
+    "searchQuery": "micronutrients soil testing laboratory agriculture science",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1159462258",
+      "https://img1.wsimg.com/isteam/getty/1519366589"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-13T12:49:07.615Z",
+    "lastUpdated": "2026-10-13T12:49:07.615Z",
+    "gettyId": "1482269836",
+    "alternativeGettyIds": [
+      "1159462258",
+      "1519366589"
+    ]
+  },
+  "pages/home/franchise-partner-2": {
+    "requestedSize": {
+      "width": 300,
+      "height": 300,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1494324618",
+    "searchQuery": "Indian business owner entrepreneur confident portrait",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2260851250",
+      "https://img1.wsimg.com/isteam/getty/1494257263"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-13T12:49:08.020Z",
+    "lastUpdated": "2026-10-13T12:49:08.020Z",
+    "gettyId": "1494324618",
+    "alternativeGettyIds": [
+      "2260851250",
+      "1494257263"
+    ]
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/5b3a562d-ae68-4cfd-ae8f-836a9c2f6462/favicon-transparent-11f82d19-9bac-4032-b1d7-b90ad7b01cba/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/5b3a562d-ae68-4cfd-ae8f-836a9c2f6462/favicon-transparent-11f82d19-9bac-4032-b1d7-b90ad7b01cba/logo-logo.png": {
+        "sessionId": "5b3a562d-ae68-4cfd-ae8f-836a9c2f6462",
+        "logoId": "11f82d19-9bac-4032-b1d7-b90ad7b01cba",
+        "groupId": "d73737bf-9f92-4810-9d52-6c08c17e7e7f"
+      }
+    },
+    "logoGroupId": "d73737bf-9f92-4810-9d52-6c08c17e7e7f",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/5b3a562d-ae68-4cfd-ae8f-836a9c2f6462/favicon-transparent-11f82d19-9bac-4032-b1d7-b90ad7b01cba/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/5b3a562d-ae68-4cfd-ae8f-836a9c2f6462/favicon-original-11f82d19-9bac-4032-b1d7-b90ad7b01cba/logo-logo.png"
+    },
+    "userModified": false,
+    "createdAt": "2026-10-13T12:49:09.061Z",
+    "lastUpdated": "2026-10-13T12:49:26.212Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#0a2558",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/d6955d90-1c55-41ac-bd22-1842dc41e834/session/5b3a562d-ae68-4cfd-ae8f-836a9c2f6462/favicon-transparent-11f82d19-9bac-4032-b1d7-b90ad7b01cba/logo-logo.png"
+  }
+}

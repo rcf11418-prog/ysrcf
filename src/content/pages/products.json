@@ -1,0 +1,161 @@
+{
+  "hero": {
+    "headline": "Our Product Range",
+    "subheadline": "Quality fertilizers and agri-inputs for every crop and soil type — backed by 50+ years of research and manufacturing excellence."
+  },
+  "categories": [
+    {
+      "id": "cat-1",
+      "label": "All Products"
+    },
+    {
+      "id": "cat-2",
+      "label": "Nitrogenous"
+    },
+    {
+      "id": "cat-3",
+      "label": "Complex"
+    },
+    {
+      "id": "cat-4",
+      "label": "Bio / Organic"
+    },
+    {
+      "id": "cat-5",
+      "label": "Specialty"
+    },
+    {
+      "id": "cat-6",
+      "label": "Industrial"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "name": "Urea (Neem Coated)",
+      "category": "Nitrogenous",
+      "npk": "46-0-0",
+      "form": "Granular",
+      "crops": "All crops",
+      "image": "/images/crops/farm.jpg",
+      "desc": "High-nitrogen fertilizer with neem coating for slow release and better nitrogen use efficiency. Ideal for paddy, wheat, sugarcane, and vegetables.",
+      "benefits": [
+        "46% Nitrogen content",
+        "Neem coated for slow release",
+        "Reduces nitrogen loss",
+        "Approved under NBS scheme"
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Suphala (15:15:15)",
+      "category": "Complex",
+      "npk": "15-15-15",
+      "form": "Granular",
+      "crops": "All crops",
+      "image": "/images/crops/wheat.jpg",
+      "desc": "Balanced NPK complex fertilizer providing equal proportions of Nitrogen, Phosphorus, and Potassium for all-round crop nutrition.",
+      "benefits": [
+        "Balanced NPK nutrition",
+        "Uniform granule size",
+        "Suitable for all soil types",
+        "Enhances root development"
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "Suphala (20:20:0)",
+      "category": "Complex",
+      "npk": "20-20-0",
+      "form": "Granular",
+      "crops": "Cereals, pulses",
+      "image": "/images/crops/maize.jpg",
+      "desc": "High nitrogen and phosphorus complex fertilizer ideal for cereal crops and pulses during sowing and early growth stages.",
+      "benefits": [
+        "High N & P content",
+        "Promotes early growth",
+        "Ideal for basal application",
+        "Improves soil fertility"
+      ]
+    },
+    {
+      "id": "p4",
+      "name": "Bio-Fertilizer (Rhizobium)",
+      "category": "Bio / Organic",
+      "npk": "Biological",
+      "form": "Powder/Liquid",
+      "crops": "Legumes, pulses",
+      "image": "/images/crops/pulses.jpg",
+      "desc": "Nitrogen-fixing bio-fertilizer containing Rhizobium bacteria for leguminous crops. Reduces chemical nitrogen requirement by up to 25 kg/ha.",
+      "benefits": [
+        "Natural nitrogen fixation",
+        "Eco-friendly",
+        "Reduces chemical input cost",
+        "Improves soil health"
+      ]
+    },
+    {
+      "id": "p5",
+      "name": "Zinc Sulphate",
+      "category": "Specialty",
+      "npk": "Zn 21%",
+      "form": "Granular/Powder",
+      "crops": "Rice, wheat, maize",
+      "image": "/images/crops/rice.jpg",
+      "desc": "Zinc micronutrient fertilizer for correcting zinc deficiency in soils. Essential for enzyme activation and crop metabolism.",
+      "benefits": [
+        "Corrects zinc deficiency",
+        "Improves grain quality",
+        "Enhances photosynthesis",
+        "Increases yield"
+      ]
+    },
+    {
+      "id": "p6",
+      "name": "Water Soluble NPK",
+      "category": "Specialty",
+      "npk": "Various grades",
+      "form": "Crystalline",
+      "crops": "Horticulture, vegetables",
+      "image": "/images/crops/vegetables.jpg",
+      "desc": "Fully water-soluble fertilizers for fertigation and foliar application. Available in multiple NPK grades for different crop stages.",
+      "benefits": [
+        "100% water soluble",
+        "Suitable for drip irrigation",
+        "Fast nutrient uptake",
+        "Multiple grades available"
+      ]
+    },
+    {
+      "id": "p7",
+      "name": "Ammonium Sulphate",
+      "category": "Nitrogenous",
+      "npk": "21-0-0 + S24%",
+      "form": "Crystalline",
+      "crops": "Tea, sugarcane, oilseeds",
+      "image": "/images/crops/sugarcane.jpg",
+      "desc": "Nitrogen and sulphur fertilizer ideal for sulphur-deficient soils and crops requiring acidic conditions.",
+      "benefits": [
+        "Nitrogen + Sulphur",
+        "Acidifying effect",
+        "Ideal for tea gardens",
+        "Improves protein content"
+      ]
+    },
+    {
+      "id": "p8",
+      "name": "Industrial Chemicals",
+      "category": "Industrial",
+      "npk": "N/A",
+      "form": "Various",
+      "crops": "Industrial use",
+      "desc": "High-grade industrial chemicals including Ammonia, Nitric Acid, Ammonium Nitrate, and Methanol for industrial and manufacturing applications.",
+      "benefits": [
+        "High purity grade",
+        "Consistent quality",
+        "Bulk supply available",
+        "Technical support provided"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "headline": "Benefits & Subsidy Schemes",
+    "subheadline": "Information shown here is illustrative until confirmed by RCF. Eligibility, amount and terms of any subsidy or benefit are subject to applicable rules and company approval."
+  },
+  "financialBenefits": [],
+  "subsidySchemes": [
+    {
+      "id": "ss1",
+      "scheme": "Nutrient Based Subsidy (NBS)",
+      "ministry": "Ministry of Chemicals & Fertilizers",
+      "desc": "Eligibility and applicability depend on current scheme rules, product, location and the applicant's circumstances. Confirm details with the relevant authority and company before relying on any benefit.",
+      "benefit": "Subject to applicable rules and company approval"
+    },
+    {
+      "id": "ss2",
+      "scheme": "Urea Subsidy Scheme",
+      "ministry": "Ministry of Chemicals & Fertilizers",
+      "desc": "Any subsidy or price information depends on current government rules and official product notices. Confirm the applicable terms before making decisions.",
+      "benefit": "Subject to current official terms"
+    },
+    {
+      "id": "ss3",
+      "scheme": "PM-KISAN Linkage",
+      "ministry": "Ministry of Agriculture",
+      "desc": "Franchise partners can assist farmers in accessing PM-KISAN benefits, building trust and customer loyalty.",
+      "benefit": "Increased footfall and farmer trust"
+    },
+    {
+      "id": "ss4",
+      "scheme": "Soil Health Card Scheme",
+      "ministry": "Ministry of Agriculture",
+      "desc": "Information about this scheme and any permitted role for a franchise partner must be confirmed with the relevant authority and company.",
+      "benefit": "Higher value sales through targeted recommendations"
+    }
+  ],
+  "operationalSupport": [
+    {
+      "id": "os1",
+      "icon": "Truck",
+      "title": "Free Delivery to Warehouse",
+      "desc": "Delivery availability, charges and qualifying conditions are subject to confirmation by the company."
+    },
+    {
+      "id": "os2",
+      "icon": "BookOpen",
+      "title": "Free Training Programme",
+      "desc": "Training availability, content and schedule are subject to company confirmation."
+    },
+    {
+      "id": "os3",
+      "icon": "Monitor",
+      "title": "Digital Portal Access",
+      "desc": "Portal access and included features are subject to company confirmation and applicable terms."
+    },
+    {
+      "id": "os4",
+      "icon": "Headphones",
+      "title": "Dedicated Franchise Manager",
+      "desc": "Support arrangements are subject to company confirmation and the applicable agreement."
+    },
+    {
+      "id": "os5",
+      "icon": "Megaphone",
+      "title": "Marketing Support",
+      "desc": "Marketing materials and permissions must be confirmed with the company before use."
+    },
+    {
+      "id": "os6",
+      "icon": "FileText",
+      "title": "Documentation Assistance",
+      "desc": "Any documentation assistance is subject to company confirmation and applicable requirements."
+    }
+  ],
+  "investmentTiers": []
+}

@@ -1,0 +1,120 @@
+{
+  "hero": {
+    "headline": "Frequently Asked Questions",
+    "subheadline": "Everything you need to know about RCF franchise, products, and the application process."
+  },
+  "categories": [
+    {
+      "id": "fc1",
+      "label": "General"
+    },
+    {
+      "id": "fc2",
+      "label": "Application"
+    },
+    {
+      "id": "fc3",
+      "label": "Investment"
+    },
+    {
+      "id": "fc4",
+      "label": "Operations"
+    },
+    {
+      "id": "fc5",
+      "label": "Products"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "f1",
+      "cat": "General",
+      "q": "What is RCF?",
+      "a": "Rashtriya Chemicals and Fertilizers Limited (RCF) is a Government of India enterprise under the Ministry of Chemicals & Fertilizers. It is one of India's largest manufacturers of fertilizers and industrial chemicals, serving farmers for over 50 years."
+    },
+    {
+      "id": "f2",
+      "cat": "General",
+      "q": "Is RCF a government company?",
+      "a": "Yes, RCF is a Public Sector Undertaking (PSU) under the Government of India. It operates under the Ministry of Chemicals & Fertilizers and is listed on the Bombay Stock Exchange (BSE) and National Stock Exchange (NSE)."
+    },
+    {
+      "id": "f3",
+      "cat": "General",
+      "q": "Where are RCF's manufacturing plants?",
+      "a": "RCF has two major manufacturing complexes — one at Trombay, Mumbai and another at Thal, Raigad (Maharashtra). Both plants together have a combined production capacity of over 20 lakh metric tonnes per year."
+    },
+    {
+      "id": "f4",
+      "cat": "Application",
+      "q": "How do I apply for an RCF franchise?",
+      "a": "You may submit an application for review through this portal. Submission is not approval or authorization to represent RCF. Eligibility, availability and terms are subject to applicable requirements and company approval."
+    },
+    {
+      "id": "f5",
+      "cat": "Application",
+      "q": "What documents are required for the application?",
+      "a": "You need: PAN Card, Aadhaar Card, Address Proof, Passport-size Photo, GST Certificate (if applicable), Bank Statement (last 6 months), Fertilizer License (or proof of application), and Warehouse/Storage photos."
+    },
+    {
+      "id": "f6",
+      "cat": "Application",
+      "q": "How long does the approval process take?",
+      "a": "Review steps and timing depend on the application, document verification and company processes. The company will provide any applicable timeline after review; no approval or activation timeframe is guaranteed."
+    },
+    {
+      "id": "f7",
+      "cat": "Investment",
+      "q": "What is the minimum investment required?",
+      "a": "Investment requirements, if applicable, are not published here. Please rely only on current written terms confirmed by the company. Do not make a payment based on unofficial estimates."
+    },
+    {
+      "id": "f8",
+      "cat": "Investment",
+      "q": "Is there a franchise fee?",
+      "a": "Any fees or deposits must be confirmed in official written terms from the company. Do not send money to individuals or accounts based on unofficial messages."
+    },
+    {
+      "id": "f9",
+      "cat": "Investment",
+      "q": "What is the expected return on investment?",
+      "a": "We do not provide or guarantee earnings, turnover, margins or a return-on-investment timeline. Outcomes depend on many factors; review official written terms and obtain independent advice before investing."
+    },
+    {
+      "id": "f10",
+      "cat": "Operations",
+      "q": "Will RCF provide training?",
+      "a": "Any training availability, content and schedule must be confirmed by the company and may depend on approval and the applicable agreement."
+    },
+    {
+      "id": "f11",
+      "cat": "Operations",
+      "q": "How does stock delivery work?",
+      "a": "Product availability, order placement, delivery arrangements, charges and tracking features depend on company confirmation and the applicable agreement."
+    },
+    {
+      "id": "f12",
+      "cat": "Operations",
+      "q": "Is there a dedicated support team?",
+      "a": "Support availability and contact channels are subject to company confirmation and the applicable agreement."
+    },
+    {
+      "id": "f13",
+      "cat": "Products",
+      "q": "What products can I sell as an RCF franchise?",
+      "a": "You can sell RCF's full product range including Urea (Neem Coated), Suphala NPK complexes, Bio-fertilizers, Micronutrients (Zinc Sulphate), Water Soluble fertilizers, and Ammonium Sulphate, depending on your franchise tier."
+    },
+    {
+      "id": "f14",
+      "cat": "Products",
+      "q": "Are RCF products covered under government subsidy?",
+      "a": "Any subsidy eligibility, amount and terms are subject to current applicable rules and company approval. Confirm current official information before relying on it."
+    },
+    {
+      "id": "f15",
+      "cat": "Products",
+      "q": "Can I sell other brands alongside RCF products?",
+      "a": "Yes, RCF does not restrict you from selling other brands. However, RCF products must be given priority shelf space and promotion as per the franchise agreement terms."
+    }
+  ]
+}

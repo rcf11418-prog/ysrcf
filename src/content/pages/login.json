@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "headline": "Sign in to your account",
+    "subheadline": "Enter your credentials to access the franchise portal"
+  },
+  "leftPanel": {
+    "heading": "Welcome back to your",
+    "headingHighlight": "Franchise Portal",
+    "description": "Manage your franchise progress, payments, stock, deliveries, documents and support — all in one place."
+  },
+  "features": [
+    {
+      "id": "f1",
+      "label": "Franchise Progress",
+      "desc": "Track every stage"
+    },
+    {
+      "id": "f2",
+      "label": "Payments & Invoices",
+      "desc": "Full financial history"
+    },
+    {
+      "id": "f3",
+      "label": "Documents",
+      "desc": "Agreements & certificates"
+    },
+    {
+      "id": "f4",
+      "label": "24/7 Support",
+      "desc": "Raise & track tickets"
+    }
+  ],
+  "footer": "© 2024 Rashtriya Chemicals & Fertilizers Ltd.",
+  "applyPrompt": "Don't have an account?",
+  "applyLinkText": "Apply for Franchise"
+}

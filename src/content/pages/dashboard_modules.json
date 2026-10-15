@@ -1,0 +1,55 @@
+{
+  "payments": {
+    "title": "Payment History",
+    "totalLabel": "Total Investment",
+    "paidLabel": "Amount Paid",
+    "pendingLabel": "Pending Amount",
+    "emptyText": "No payment records yet."
+  },
+  "invoices": {
+    "title": "Invoices",
+    "emptyText": "No invoices yet."
+  },
+  "documents": {
+    "title": "My Documents",
+    "emptyText": "No documents uploaded yet. Your agreements and certificates will appear here."
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllRead": "Mark all as read",
+    "emptyText": "You are all caught up! No notifications."
+  },
+  "support": {
+    "title": "Support Tickets",
+    "newTicketBtn": "New Ticket",
+    "emptyText": "No support tickets yet.",
+    "form": {
+      "subjectLabel": "Subject",
+      "descriptionLabel": "Description",
+      "categoryLabel": "Category",
+      "priorityLabel": "Priority",
+      "submitBtn": "Submit Ticket",
+      "cancelBtn": "Cancel"
+    }
+  },
+  "profile": {
+    "title": "My Profile",
+    "saveBtn": "Save Changes",
+    "savedMsg": "Profile updated successfully."
+  },
+  "password": {
+    "title": "Change Password",
+    "currentLabel": "Current Password",
+    "newLabel": "New Password",
+    "confirmLabel": "Confirm New Password",
+    "submitBtn": "Update Password"
+  },
+  "stock": {
+    "title": "Stock & Orders",
+    "emptyText": "No stock or order records yet."
+  },
+  "delivery": {
+    "title": "Delivery Tracking",
+    "emptyText": "No delivery records yet."
+  }
+}

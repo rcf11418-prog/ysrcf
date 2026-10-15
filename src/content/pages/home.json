@@ -1,0 +1,165 @@
+{
+  "hero": {
+    "headline": "RCF Franchise & Dealership Opportunity Across India",
+    "subheadline": "Explore a structured franchise and dealership opportunity. Availability, eligibility and terms are subject to applicable requirements and company approval.",
+    "ctaPrimary": "Apply Now",
+    "ctaSecondary": "Franchise Login"
+  },
+  "stats": [
+    {
+      "id": "stat-1",
+      "value": "28+",
+      "label": "States Covered"
+    },
+    {
+      "id": "stat-2",
+      "value": "5000+",
+      "label": "Active Franchisees"
+    },
+    {
+      "id": "stat-3",
+      "value": "50+",
+      "label": "Products"
+    },
+    {
+      "id": "stat-4",
+      "value": "50+",
+      "label": "Years of Excellence"
+    }
+  ],
+  "about": {
+    "badge": "Government of India Undertaking",
+    "headline": "Why Partner with RCF?",
+    "body": "Rashtriya Chemicals and Fertilizers Limited (RCF) is one of India's premier public sector fertilizer companies, operating under the Ministry of Chemicals & Fertilizers. With decades of excellence in producing quality fertilizers and industrial chemicals, RCF offers franchise partners unmatched brand trust, government backing, and a robust supply chain.",
+    "benefits": [
+      "Learn about RCF's products and business opportunities",
+      "Comprehensive training and onboarding support",
+      "Access to partner information and application support",
+      "Training and onboarding details subject to company approval",
+      "Explore potential locations across India",
+      "Digital tools and portal access for easy management"
+    ]
+  },
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Urea",
+      "category": "Nitrogenous Fertilizer",
+      "description": "High-quality urea for enhanced crop yield and soil nitrogen content."
+    },
+    {
+      "id": "prod-2",
+      "name": "NPK Complex",
+      "category": "Complex Fertilizer",
+      "description": "Balanced NPK formulations for comprehensive crop nutrition."
+    },
+    {
+      "id": "prod-3",
+      "name": "Bio Fertilizers",
+      "category": "Organic / Bio",
+      "description": "Eco-friendly bio-fertilizers for sustainable and organic farming."
+    },
+    {
+      "id": "prod-4",
+      "name": "Micronutrients",
+      "category": "Specialty Nutrients",
+      "description": "Targeted micronutrient solutions for deficiency correction."
+    },
+    {
+      "id": "prod-5",
+      "name": "Water Soluble",
+      "category": "Specialty Fertilizer",
+      "description": "Fully water-soluble fertilizers for drip and foliar application."
+    },
+    {
+      "id": "prod-6",
+      "name": "Industrial Chemicals",
+      "category": "Industrial",
+      "description": "High-grade industrial chemicals for manufacturing and processing."
+    }
+  ],
+  "process": [
+    {
+      "id": "step-1",
+      "step": "01",
+      "title": "Apply Online",
+      "description": "Fill the franchise application form with your details and documents."
+    },
+    {
+      "id": "step-2",
+      "step": "02",
+      "title": "KYC & Verification",
+      "description": "Submit KYC documents. Our team verifies your eligibility and location."
+    },
+    {
+      "id": "step-3",
+      "step": "03",
+      "title": "Approval & Agreement",
+      "description": "Receive approval letter and sign the franchise agreement."
+    },
+    {
+      "id": "step-4",
+      "step": "04",
+      "title": "Investment & Setup",
+      "description": "Complete investment formalities and set up your franchise outlet."
+    },
+    {
+      "id": "step-5",
+      "step": "05",
+      "title": "Launch & Support",
+      "description": "Receive stock allocation, training, and go live with full RCF support."
+    }
+  ],
+  "benefits": [
+    {
+      "id": "ben-1",
+      "icon": "Shield",
+      "title": "Government Backing",
+      "description": "Operate under the trusted RCF brand — a Government of India undertaking with decades of credibility."
+    },
+    {
+      "id": "ben-2",
+      "icon": "TrendingUp",
+      "title":      "Business Opportunity",
+      "description": "Review opportunity details, eligibility, and applicable terms with the company before applying."
+    },
+    {
+      "id": "ben-3",
+      "icon": "Users",
+      "title": "Dedicated Support",
+      "description": "Personal franchise manager, 24/7 helpline, and regular field visits to ensure your success."
+    },
+    {
+      "id": "ben-4",
+      "icon": "Package",
+      "title":      "Product Information",
+      "description": "Product availability, pricing and supply arrangements are subject to confirmation by the company."
+    },
+    {
+      "id": "ben-5",
+      "icon": "Award",
+      "title":      "Subsidy Information",
+      "description": "Eligibility, amount and terms are subject to applicable rules and company approval."
+    },
+    {
+      "id": "ben-6",
+      "icon": "BarChart2",
+      "title": "Digital Management",
+      "description": "Full access to RCF's franchise portal for orders, payments, inventory, and delivery tracking."
+    }
+  ],
+  "testimonials": [],
+  "cta": {
+    "headline": "Explore the RCF Franchise Opportunity",
+    "subtext": "Submit an enquiry for review. Any opportunity, eligibility and terms are subject to applicable requirements and company approval.",
+    "ctaPrimary": "Apply Now",
+    "ctaSecondary": "Franchise Login"
+  },
+  "reach": {
+    "headline": "Our Reach Across India",
+    "subtext": "Explore franchise opportunities by location. Network coverage and availability are subject to company confirmation.",
+    "states": "Pan-India",
+    "districts": "Location-based",
+    "farmers": "Opportunity details"
+  }
+}

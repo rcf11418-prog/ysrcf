@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "headline": "RCF Franchise & Dealership",
+    "subheadline": "Explore a franchise and dealership opportunity. Availability, eligibility, support and terms are subject to applicable requirements and company approval."
+  },
+  "overview": {
+    "headline": "What is an RCF Franchise?",
+    "body": "A franchise or dealership arrangement, including product range, territory, supply, any applicable subsidy and support, requires confirmation and approval by the company. Submitting an application does not grant authorization to represent RCF or guarantee acceptance.",
+    "highlights": [
+      {
+        "id": "h1",
+        "label": "Location Review",
+        "desc": "Preferred locations are reviewed for availability and suitability."
+      },
+      {
+        "id": "h2",
+        "label": "Company Authorization",
+        "desc": "Use of the RCF name or marks requires express written authorization."
+      },
+      {
+        "id": "h3",
+        "label": "Subsidy Information",
+        "desc": "Eligibility, amount and terms depend on applicable rules and company approval."
+      },
+      {
+        "id": "h4",
+        "label": "Terms to Confirm",
+        "desc": "Any support, training or logistics arrangements are subject to company confirmation."
+      }
+    ]
+  },
+  "types": [
+    {
+      "id": "t1",
+      "type": "Retailer / Dealer",
+      "icon": "Store",
+      "investment": "To be confirmed",
+      "territory": "Village / Panchayat",
+      "desc": "Ideal for individuals with local market knowledge. Sell directly to farmers in your village or panchayat area.",
+      "requirements": [
+        "Valid fertilizer license",
+        "Storage space (min 500 sq ft)",
+        "Basic business experience",
+        "PAN & Aadhaar"
+      ]
+    },
+    {
+      "id": "t2",
+      "type": "Block Distributor",
+      "icon": "Building2",
+      "investment": "To be confirmed",
+      "territory": "Block / Taluka",
+      "desc": "Supply to multiple retailers in your block. Manage a network of sub-dealers with RCF's full logistics support.",
+      "requirements": [
+        "Fertilizer wholesale license",
+        "Warehouse (min 2000 sq ft)",
+        "2+ years business experience",
+        "GST registration"
+      ]
+    },
+    {
+      "id": "t3",
+      "type": "District Distributor",
+      "icon": "Landmark",
+      "investment": "To be confirmed",
+      "territory": "District",
+      "desc": "Become the primary RCF distributor for your district. Manage block distributors and large institutional clients.",
+      "requirements": [
+        "Wholesale fertilizer license",
+        "Warehouse (min 5000 sq ft)",
+        "5+ years business experience",
+        "Strong financial background"
+      ]
+    }
+  ],
+  "eligibility": {
+    "headline": "Eligibility Criteria",
+    "criteria": [
+      {
+        "id": "e1",
+        "item": "Indian citizen aged 21–60 years"
+      },
+      {
+        "id": "e2",
+        "item": "Valid fertilizer retail / wholesale license (or willingness to obtain)"
+      },
+      {
+        "id": "e3",
+        "item": "Adequate storage / warehouse space as per tier requirement"
+      },
+      {
+        "id": "e4",
+        "item": "PAN Card, Aadhaar Card, and GST registration"
+      },
+      {
+        "id": "e5",
+        "item": "Clean financial background with no major loan defaults"
+      },
+      {
+        "id": "e6",
+        "item": "Commitment to RCF's code of conduct and pricing guidelines"
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Interested in Applying?",
+    "body": "Submit an application for review. Eligibility, availability and terms are subject to company approval.",
+    "button": "Apply Now"
+  }
+}

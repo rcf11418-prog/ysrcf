@@ -1,0 +1,151 @@
+{
+  "hero": {
+    "headline": "Franchise Process",
+    "subheadline": "A transparent, step-by-step journey from application to becoming an active RCF franchise partner."
+  },
+  "stages": [
+    {
+      "id": "s1",
+      "step": "01",
+      "title": "Online Application",
+      "duration": "Day 1",
+      "desc": "Fill the online franchise application form with your personal details, business information, investment capacity, and preferred location. Upload required documents.",
+      "docs": [
+        "PAN Card",
+        "Aadhaar Card",
+        "Address Proof",
+        "Passport Photo"
+      ],
+      "status": "applicant"
+    },
+    {
+      "id": "s2",
+      "step": "02",
+      "title": "Application Review",
+      "duration": "2–3 Days",
+      "desc": "RCF's franchise team reviews your application for completeness and initial eligibility. You receive an acknowledgement with your Application ID.",
+      "docs": [],
+      "status": "rcf"
+    },
+    {
+      "id": "s3",
+      "step": "03",
+      "title": "KYC Verification",
+      "duration": "3–5 Days",
+      "desc": "Submit KYC documents for verification. Our field team may conduct a physical verification of your proposed business location.",
+      "docs": [
+        "GST Certificate",
+        "Bank Statement (6 months)",
+        "Fertilizer License",
+        "Warehouse Photos"
+      ],
+      "status": "rcf"
+    },
+    {
+      "id": "s4",
+      "step": "04",
+      "title": "Background Check",
+      "duration": "3–5 Days",
+      "desc": "RCF conducts a background check including financial history, existing business credentials, and market reputation in your area.",
+      "docs": [],
+      "status": "rcf"
+    },
+    {
+      "id": "s5",
+      "step": "05",
+      "title": "Approval Letter",
+      "duration": "2–3 Days",
+      "desc": "Upon successful verification, RCF issues a formal Approval Letter with your franchise tier, territory, and terms of engagement.",
+      "docs": [],
+      "status": "rcf"
+    },
+    {
+      "id": "s6",
+      "step": "06",
+      "title": "Franchise Agreement",
+      "duration": "3–5 Days",
+      "desc": "Sign the official RCF Franchise Agreement. Review terms carefully. Agreement covers territory rights, pricing, conduct, and renewal conditions.",
+      "docs": [
+        "Signed Agreement",
+        "Stamp Duty Payment"
+      ],
+      "status": "applicant"
+    },
+    {
+      "id": "s7",
+      "step": "07",
+      "title": "Security Deposit & Investment",
+      "duration": "3–5 Days",
+      "desc": "Pay the refundable security deposit and initial investment as per your franchise tier. Payment via NEFT/RTGS to RCF's designated account.",
+      "docs": [
+        "Payment Receipt",
+        "Bank Transfer Proof"
+      ],
+      "status": "applicant"
+    },
+    {
+      "id": "s8",
+      "step": "08",
+      "title": "Infrastructure Setup",
+      "duration": "7–15 Days",
+      "desc": "Set up your franchise outlet as per RCF's guidelines — signage, storage, display, and safety requirements. RCF provides a setup checklist.",
+      "docs": [
+        "Setup Completion Certificate"
+      ],
+      "status": "applicant"
+    },
+    {
+      "id": "s9",
+      "step": "09",
+      "title": "Training Programme",
+      "duration": "3 Days",
+      "desc": "Attend RCF's mandatory 3-day franchise training programme covering product knowledge, government schemes, portal usage, and sales techniques.",
+      "docs": [
+        "Training Certificate"
+      ],
+      "status": "applicant"
+    },
+    {
+      "id": "s10",
+      "step": "10",
+      "title": "Stock Allocation",
+      "duration": "5–7 Days",
+      "desc": "RCF allocates your initial stock based on your tier and territory. Stock is dispatched from the nearest RCF warehouse to your location.",
+      "docs": [],
+      "status": "rcf"
+    },
+    {
+      "id": "s11",
+      "step": "11",
+      "title": "Franchise Activated",
+      "duration": "Launch Day",
+      "desc": "Your RCF franchise is officially activated! You receive your Franchise ID, portal credentials, and can begin selling RCF products to farmers.",
+      "docs": [
+        "Franchise Certificate",
+        "Portal Credentials"
+      ],
+      "status": "complete"
+    }
+  ],
+  "timeline": {
+    "total": "30–45 Days",
+    "note": "Timeline may vary based on document completeness and location verification requirements."
+  },
+  "faq": [
+    {
+      "id": "fq1",
+      "q": "Can I apply from any state in India?",
+      "a": "Yes, RCF accepts franchise applications from all states and union territories across India."
+    },
+    {
+      "id": "fq2",
+      "q": "Is the security deposit refundable?",
+      "a": "Yes, the security deposit is fully refundable upon termination of the franchise agreement, subject to no outstanding dues."
+    },
+    {
+      "id": "fq3",
+      "q": "Do I need an existing fertilizer license?",
+      "a": "A fertilizer license is required before the franchise is activated. RCF's team can guide you through the license application process."
+    }
+  ]
+}

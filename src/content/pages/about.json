@@ -1,0 +1,97 @@
+{
+  "hero": {
+    "badge": "Government of India Undertaking",
+    "headline": "About Rashtriya Chemicals and Fertilizers",
+    "subheadline": "India's premier public sector fertilizer company, serving farmers and the nation for over 50 years."
+  },
+  "overview": {
+    "headline": "Who We Are",
+    "body1": "Rashtriya Chemicals and Fertilizers Limited (RCF) is a Government of India enterprise under the Ministry of Chemicals & Fertilizers. Incorporated in 1978, RCF has grown into one of India's largest manufacturers of fertilizers and industrial chemicals.",
+    "body2": "With two major manufacturing complexes at Trombay (Mumbai) and Thal (Raigad, Maharashtra), RCF produces a wide range of fertilizers including Urea, Complex Fertilizers, Biofertilizers, and specialty nutrients — serving millions of farmers across India.",
+    "established": "1978",
+    "employees": "3,500+",
+    "plants": "2 Major Plants",
+    "capacity": "20 Lakh MT/Year"
+  },
+  "mission": {
+    "headline": "Mission & Vision",
+    "mission": "To be a leading fertilizer company contributing to India's food security by providing quality fertilizers and agri-inputs to farmers at affordable prices.",
+    "vision": "To be the most preferred and trusted fertilizer brand in India, known for quality, innovation, and farmer-centric service.",
+    "values": [
+      {
+        "id": "v1",
+        "title": "Integrity",
+        "desc": "Transparent and ethical in all operations"
+      },
+      {
+        "id": "v2",
+        "title": "Quality",
+        "desc": "Uncompromising standards in every product"
+      },
+      {
+        "id": "v3",
+        "title": "Innovation",
+        "desc": "Continuous R&D for better agri-solutions"
+      },
+      {
+        "id": "v4",
+        "title": "Service",
+        "desc": "Farmer-first approach in everything we do"
+      }
+    ]
+  },
+  "milestones": [
+    {
+      "id": "m1",
+      "year": "1978",
+      "event": "RCF incorporated as a Government of India enterprise"
+    },
+    {
+      "id": "m2",
+      "year": "1985",
+      "event": "Thal plant commissioned — one of Asia's largest urea plants"
+    },
+    {
+      "id": "m3",
+      "year": "1995",
+      "event": "Expanded product range to include complex fertilizers and micronutrients"
+    },
+    {
+      "id": "m4",
+      "year": "2005",
+      "event": "Launched bio-fertilizer range for sustainable farming"
+    },
+    {
+      "id": "m5",
+      "year": "2015",
+      "event": "Digital transformation — launched online franchise portal"
+    },
+    {
+      "id": "m6",
+      "year": "2024",
+      "event": "5000+ active franchise partners across 28+ states"
+    }
+  ],
+  "awards": [
+    {
+      "id": "a1",
+      "title": "National Award for Excellence",
+      "body": "Ministry of Chemicals & Fertilizers"
+    },
+    {
+      "id": "a2",
+      "title": "Best PSU in Agriculture",
+      "body": "FICCI Agriculture Summit"
+    },
+    {
+      "id": "a3",
+      "title": "ISO 9001:2015 Certified",
+      "body": "Quality Management System"
+    },
+    {
+      "id": "a4",
+      "title": "Green Manufacturing Award",
+      "body": "CII Sustainability Summit"
+    }
+  ]
+}

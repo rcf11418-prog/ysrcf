@@ -1,0 +1,238 @@
+{
+  "hero": {
+    "headline": "Apply for RCF Franchise",
+    "subheadline": "Submit an application for review. Submission is not an offer, approval or authorization to represent RCF; eligibility and terms are subject to applicable requirements and company approval."
+  },
+  "steps": [
+    {
+      "id": "s1",
+      "label": "Personal Details",
+      "desc": "Name, contact, identity documents"
+    },
+    {
+      "id": "s2",
+      "label": "Address",
+      "desc": "Residential & business address"
+    },
+    {
+      "id": "s3",
+      "label": "Business Details",
+      "desc": "Existing business info"
+    },
+    {
+      "id": "s4",
+      "label": "Franchise Preference",
+      "desc": "Type, location, investment"
+    },
+    {
+      "id": "s5",
+      "label": "Documents",
+      "desc": "Upload required identity and business documents"
+    },
+    {
+      "id": "s6",
+      "label": "Review & Submit",
+      "desc": "Verify and submit"
+    }
+  ],
+  "franchiseTypes": [
+    {
+      "id": "ft1",
+      "value": "Retailer",
+      "label": "Retailer",
+      "desc": "Retail opportunity; availability and eligibility subject to company review",
+      "investment": "Investment to be confirmed by the company"
+    },
+    {
+      "id": "ft2",
+      "value": "Block Distributor",
+      "label": "Block Distributor",
+      "desc": "Distribution opportunity; availability and eligibility subject to company review",
+      "investment": "Investment to be confirmed by the company"
+    },
+    {
+      "id": "ft3",
+      "value": "District Distributor",
+      "label": "District Distributor",
+      "desc": "Distribution opportunity; availability and eligibility subject to company review",
+      "investment": "Investment to be confirmed by the company"
+    }
+  ],
+  "indianStates": [
+    {
+      "id": "is1",
+      "value": "Andhra Pradesh"
+    },
+    {
+      "id": "is2",
+      "value": "Arunachal Pradesh"
+    },
+    {
+      "id": "is3",
+      "value": "Assam"
+    },
+    {
+      "id": "is4",
+      "value": "Bihar"
+    },
+    {
+      "id": "is5",
+      "value": "Chhattisgarh"
+    },
+    {
+      "id": "is6",
+      "value": "Goa"
+    },
+    {
+      "id": "is7",
+      "value": "Gujarat"
+    },
+    {
+      "id": "is8",
+      "value": "Haryana"
+    },
+    {
+      "id": "is9",
+      "value": "Himachal Pradesh"
+    },
+    {
+      "id": "is10",
+      "value": "Jharkhand"
+    },
+    {
+      "id": "is11",
+      "value": "Karnataka"
+    },
+    {
+      "id": "is12",
+      "value": "Kerala"
+    },
+    {
+      "id": "is13",
+      "value": "Madhya Pradesh"
+    },
+    {
+      "id": "is14",
+      "value": "Maharashtra"
+    },
+    {
+      "id": "is15",
+      "value": "Manipur"
+    },
+    {
+      "id": "is16",
+      "value": "Meghalaya"
+    },
+    {
+      "id": "is17",
+      "value": "Mizoram"
+    },
+    {
+      "id": "is18",
+      "value": "Nagaland"
+    },
+    {
+      "id": "is19",
+      "value": "Odisha"
+    },
+    {
+      "id": "is20",
+      "value": "Punjab"
+    },
+    {
+      "id": "is21",
+      "value": "Rajasthan"
+    },
+    {
+      "id": "is22",
+      "value": "Sikkim"
+    },
+    {
+      "id": "is23",
+      "value": "Tamil Nadu"
+    },
+    {
+      "id": "is24",
+      "value": "Telangana"
+    },
+    {
+      "id": "is25",
+      "value": "Tripura"
+    },
+    {
+      "id": "is26",
+      "value": "Uttar Pradesh"
+    },
+    {
+      "id": "is27",
+      "value": "Uttarakhand"
+    },
+    {
+      "id": "is28",
+      "value": "West Bengal"
+    },
+    {
+      "id": "is29",
+      "value": "Delhi"
+    },
+    {
+      "id": "is30",
+      "value": "Jammu & Kashmir"
+    },
+    {
+      "id": "is31",
+      "value": "Ladakh"
+    }
+  ],
+  "requiredDocs": [
+    {
+      "id": "rd1",
+      "field": "panDocument",
+      "label": "PAN Card",
+      "required": true,
+      "accept": ".pdf,.jpg,.jpeg,.png"
+    },
+    {
+      "id": "rd2",
+      "field": "aadhaarDocument",
+      "label": "Aadhaar Card",
+      "required": true,
+      "accept": ".pdf,.jpg,.jpeg,.png"
+    },
+    {
+      "id": "rd3",
+      "field": "gstDocument",
+      "label": "GST Certificate",
+      "required": false,
+      "accept": ".pdf,.jpg,.jpeg,.png"
+    },
+    {
+      "id": "rd4",
+      "field": "addressProof",
+      "label": "Address Proof",
+      "required": true,
+      "accept": ".pdf,.jpg,.jpeg,.png"
+    },
+    {
+      "id": "rd5",
+      "field": "bankStatement",
+      "label": "Bank Statement (Last 6 months)",
+      "required": false,
+      "accept": ".pdf,.jpg,.jpeg,.png"
+    },
+    {
+      "id": "rd6",
+      "field": "shopPhoto",
+      "label": "Shop / Premises Photo",
+      "required": false,
+      "accept": ".jpg,.jpeg,.png"
+    },
+    {
+      "id": "rd7",
+      "field": "passportPhoto",
+      "label": "Passport Size Photo",
+      "required": true,
+      "accept": ".jpg,.jpeg,.png"
+    }
+  ]
+}

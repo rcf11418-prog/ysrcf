@@ -1,0 +1,126 @@
+{
+  "overview": {
+    "welcomeLabel": "Welcome back,",
+    "noProfileNote": "Your franchise profile is being set up by our team.",
+    "progressTitle": "Franchise Progress",
+    "quickAccessTitle": "Quick Access"
+  },
+  "stats": [
+    {
+      "id": "st1",
+      "label": "Total Investment",
+      "sub": "Franchise fee"
+    },
+    {
+      "id": "st2",
+      "label": "Amount Paid",
+      "sub": "Cleared"
+    },
+    {
+      "id": "st3",
+      "label": "Pending",
+      "sub": "Outstanding"
+    },
+    {
+      "id": "st4",
+      "label": "Open Tickets",
+      "sub": "Support"
+    }
+  ],
+  "quickLinks": [
+    {
+      "id": "ql1",
+      "to": "/dashboard/progress",
+      "label": "Franchise Progress"
+    },
+    {
+      "id": "ql2",
+      "to": "/dashboard/payments",
+      "label": "Payments"
+    },
+    {
+      "id": "ql3",
+      "to": "/dashboard/invoices",
+      "label": "Invoices"
+    },
+    {
+      "id": "ql4",
+      "to": "/dashboard/stock",
+      "label": "Stock & Orders"
+    },
+    {
+      "id": "ql5",
+      "to": "/dashboard/delivery",
+      "label": "Delivery Tracking"
+    },
+    {
+      "id": "ql6",
+      "to": "/dashboard/documents",
+      "label": "Documents"
+    },
+    {
+      "id": "ql7",
+      "to": "/dashboard/notifications",
+      "label": "Notifications"
+    },
+    {
+      "id": "ql8",
+      "to": "/dashboard/support",
+      "label": "Support"
+    }
+  ],
+  "progressStages": [
+    {
+      "id": "ps0",
+      "label": "Application Submitted"
+    },
+    {
+      "id": "ps1",
+      "label": "Application Review"
+    },
+    {
+      "id": "ps2",
+      "label": "KYC Verification"
+    },
+    {
+      "id": "ps3",
+      "label": "Document Verification"
+    },
+    {
+      "id": "ps4",
+      "label": "Location Verification"
+    },
+    {
+      "id": "ps5",
+      "label": "Approval"
+    },
+    {
+      "id": "ps6",
+      "label": "Agreement"
+    },
+    {
+      "id": "ps7",
+      "label": "Initial Payment"
+    },
+    {
+      "id": "ps8",
+      "label": "Infrastructure Setup"
+    },
+    {
+      "id": "ps9",
+      "label": "Stock Allocation"
+    },
+    {
+      "id": "ps10",
+      "label": "Delivery"
+    },
+    {
+      "id": "ps11",
+      "label": "Training"
+    },
+    {
+      "id": "ps12",
+      "label": "Franchise Activated"
+    }
+  ]
+}
